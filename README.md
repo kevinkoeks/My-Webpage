@@ -1,3 +1,3 @@
-# kevinkoeks.github.io
+# username.github.io
 
 Trying to make a page
